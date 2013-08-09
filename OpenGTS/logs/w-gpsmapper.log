@@ -1,0 +1,40 @@
+[INFO_|07/25 15:59:17|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=132928, free=78034, used=54894
+[INFO_|07/25 15:59:17|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/25 15:59:17|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gpsmapper.xml
+[INFO_|07/25 15:59:17|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gpsmapper/WEB-INF/dcservers.xml
+[INFO_|07/25 15:59:17|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/25 21:57:55|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/25 21:57:55|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gpsmapper
+[INFO_|07/25 21:57:55|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/28 00:15:57|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=126912, free=39808, used=87104
+[INFO_|07/28 00:15:58|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/28 00:15:58|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gpsmapper.xml
+[INFO_|07/28 00:15:58|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gpsmapper/WEB-INF/dcservers.xml
+[INFO_|07/28 00:15:58|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/28 00:19:15|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/28 00:19:15|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gpsmapper
+[INFO_|07/28 00:19:15|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:36:05|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=101312, free=23407, used=77905
+[INFO_|07/30 16:36:06|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/30 16:36:06|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gpsmapper.xml
+[INFO_|07/30 16:36:06|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gpsmapper/WEB-INF/dcservers.xml
+[INFO_|07/30 16:36:06|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 16:39:19|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 16:39:19|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gpsmapper
+[INFO_|07/30 16:39:19|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:39:30|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=113344, free=42603, used=70741
+[INFO_|07/30 16:39:31|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/30 16:39:31|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gpsmapper.xml
+[INFO_|07/30 16:39:31|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gpsmapper/WEB-INF/dcservers.xml
+[INFO_|07/30 16:39:31|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 16:40:33|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 16:40:33|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gpsmapper
+[INFO_|07/30 16:40:33|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:42:12|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=130432, free=42144, used=88288
+[INFO_|07/30 16:42:12|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/30 16:42:12|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gpsmapper.xml
+[INFO_|07/30 16:42:12|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gpsmapper/WEB-INF/dcservers.xml
+[INFO_|07/30 16:42:12|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 17:07:18|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 17:07:18|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gpsmapper
+[INFO_|07/30 17:07:18|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------

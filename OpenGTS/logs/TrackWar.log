@@ -1,0 +1,295 @@
+[INFO_|07/23 17:17:23|Track._doWork:1209] Login Account/User: demo/admin [From 127.0.0.1]
+[INFO_|07/23 17:17:23|Audit.userLoginOK:110] Login: Time=1374580043 Domain=default Account=demo User=admin IP=127.0.0.1
+[INFO_|07/23 17:17:58|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/23 17:17:58|Audit.userLoginOK:110] Login: Time=1374580078 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/23 19:24:43|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/23 19:24:43|Audit.userLoginOK:110] Login: Time=1374587683 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/23 19:24:54|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[INFO_|07/23 19:24:59|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[INFO_|07/23 19:25:11|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/23 21:31:38|DBConnection.closeAllConnections:334] Closed all open DBConnections: 8
+[INFO_|07/23 21:31:39|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/23 21:31:39|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/23 21:31:39|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/24 14:57:51|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=15131, used=36645
+[INFO_|07/24 14:57:53|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/24 15:02:55|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/24 15:02:55|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/24 15:02:55|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/24 15:02:56|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=138176, free=36944, used=101232
+[INFO_|07/24 15:02:57|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/24 15:07:10|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/24 15:07:11|Audit.userLoginOK:110] Login: Time=1374658631 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/24 21:30:06|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/24 21:30:06|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/24 21:30:06|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/25 15:55:41|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53888, free=31915, used=21973
+[INFO_|07/25 15:55:42|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/25 15:59:49|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/25 15:59:49|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/25 15:59:49|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/25 15:59:50|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=128832, free=16004, used=112828
+[INFO_|07/25 15:59:50|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/25 21:57:58|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/25 21:57:58|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/25 21:57:58|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/28 00:15:54|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=14641, used=37135
+[INFO_|07/28 00:15:55|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/28 00:16:25|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/28 00:16:25|Audit.userLoginOK:110] Login: Time=1374950785 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/28 00:16:35|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/28 00:17:05|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.fleet] false
+[INFO_|07/28 00:17:09|RequestProperties.getMapEvents:1286] No devices ...
+[INFO_|07/28 00:17:18|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/28 00:17:45|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/28 00:17:57|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/28 00:19:00|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/28 00:19:16|DBConnection.closeAllConnections:334] Closed all open DBConnections: 8
+[INFO_|07/28 00:19:17|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/28 00:19:17|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/28 00:19:17|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:36:01|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53696, free=18863, used=34833
+[INFO_|07/30 16:36:02|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 16:39:22|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 16:39:22|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 16:39:22|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:39:27|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53632, free=18568, used=35064
+[INFO_|07/30 16:39:28|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 16:40:36|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 16:40:36|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 16:40:36|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:42:09|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=14124, used=37652
+[INFO_|07/30 16:42:10|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 17:07:32|DBConnection.closeAllConnections:334] Closed all open DBConnections: 1
+[INFO_|07/30 17:07:32|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 17:07:32|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 17:07:32|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 17:12:56|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=184128, free=94230, used=89898
+[INFO_|07/30 17:12:56|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 17:25:40|DBConnection.closeAllConnections:334] Closed all open DBConnections: 1
+[INFO_|07/30 17:25:41|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 17:25:41|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 17:25:41|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 17:25:49|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53632, free=18522, used=35110
+[INFO_|07/30 17:25:50|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 20:54:33|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 20:54:33|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 20:54:33|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 20:58:09|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=36544, free=24598, used=11946
+[INFO_|07/30 20:58:10|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 21:01:46|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/30 21:01:46|Audit.userLoginOK:110] Login: Time=1375198306 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[WARN_|07/30 21:03:22|ReportSpreadsheet.GetExcelSpreadsheetClass:60] Excel interface not supported: java.lang.ClassNotFoundException: org.opengts.util.ExcelTools$Spreadsheet
+[INFO_|07/30 21:05:20|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[WARN_|07/30 21:05:46|SysAdminAccounts.writePage:503] Deleting Account: account
+[ERROR|07/30 21:05:46|SysAdminAccounts.writePage:513] Exception: Unable to delete account: account
+org.opengts.dbtools.DBException: Record deletion [SQLErr=1146] [com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'proto143_gts.AccountString' doesn't exist]
+	at org.opengts.dbtools.DBRecordKey._deleteDependencies(DBRecordKey.java:596)
+	at org.opengts.dbtools.DBRecordKey.delete(DBRecordKey.java:523)
+	at org.opengts.war.track.page.SysAdminAccounts.writePage(SysAdminAccounts.java:504)
+	at org.opengts.war.track.Track._doWork(Track.java:1603)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:426)
+	at org.opengts.war.track.Track.doPost(Track.java:313)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:269)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:215)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:172)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:117)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:108)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:174)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:881)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:674)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:541)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:81)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:689)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'proto143_gts.AccountString' doesn't exist
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1054)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4187)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4119)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2570)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2731)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2809)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1811)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1725)
+	at org.opengts.dbtools.DBConnection._executeUpdate(DBConnection.java:989)
+	at org.opengts.dbtools.DBConnection.executeUpdate(DBConnection.java:927)
+	at org.opengts.dbtools.DBConnection.executeUpdate(DBConnection.java:908)
+	at org.opengts.dbtools.DBRecordKey._delete(DBRecordKey.java:565)
+	at org.opengts.dbtools.DBRecordKey._deleteDependencies(DBRecordKey.java:594)
+	... 24 more
+[INFO_|07/30 21:05:46|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[WARN_|07/30 21:05:56|SysAdminAccounts.writePage:503] Deleting Account: account
+[ERROR|07/30 21:05:56|SysAdminAccounts.writePage:513] Exception: Unable to delete account: account
+org.opengts.dbtools.DBException: Record deletion [SQLErr=1146] [com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'proto143_gts.AccountString' doesn't exist]
+	at org.opengts.dbtools.DBRecordKey._deleteDependencies(DBRecordKey.java:596)
+	at org.opengts.dbtools.DBRecordKey.delete(DBRecordKey.java:523)
+	at org.opengts.war.track.page.SysAdminAccounts.writePage(SysAdminAccounts.java:504)
+	at org.opengts.war.track.Track._doWork(Track.java:1603)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:426)
+	at org.opengts.war.track.Track.doPost(Track.java:313)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:269)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:215)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:172)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:117)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:108)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:174)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:881)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:674)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:541)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:81)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:689)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'proto143_gts.AccountString' doesn't exist
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1054)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4187)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4119)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2570)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2731)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2809)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1811)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1725)
+	at org.opengts.dbtools.DBConnection._executeUpdate(DBConnection.java:989)
+	at org.opengts.dbtools.DBConnection.executeUpdate(DBConnection.java:927)
+	at org.opengts.dbtools.DBConnection.executeUpdate(DBConnection.java:908)
+	at org.opengts.dbtools.DBRecordKey._delete(DBRecordKey.java:565)
+	at org.opengts.dbtools.DBRecordKey._deleteDependencies(DBRecordKey.java:594)
+	... 24 more
+[INFO_|07/30 21:05:56|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[INFO_|07/30 21:06:02|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[INFO_|07/30 21:06:14|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[WARN_|07/30 21:06:17|SysAdminAccounts.writePage:503] Deleting Account: account
+[ERROR|07/30 21:06:17|SysAdminAccounts.writePage:513] Exception: Unable to delete account: account
+org.opengts.dbtools.DBException: Record deletion [SQLErr=1146] [com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'proto143_gts.AccountString' doesn't exist]
+	at org.opengts.dbtools.DBRecordKey._deleteDependencies(DBRecordKey.java:596)
+	at org.opengts.dbtools.DBRecordKey.delete(DBRecordKey.java:523)
+	at org.opengts.war.track.page.SysAdminAccounts.writePage(SysAdminAccounts.java:504)
+	at org.opengts.war.track.Track._doWork(Track.java:1603)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:426)
+	at org.opengts.war.track.Track.doPost(Track.java:313)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:269)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:215)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:172)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:117)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:108)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:174)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:881)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:674)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:541)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:81)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:689)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'proto143_gts.AccountString' doesn't exist
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1054)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4187)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4119)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2570)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2731)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2809)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1811)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1725)
+	at org.opengts.dbtools.DBConnection._executeUpdate(DBConnection.java:989)
+	at org.opengts.dbtools.DBConnection.executeUpdate(DBConnection.java:927)
+	at org.opengts.dbtools.DBConnection.executeUpdate(DBConnection.java:908)
+	at org.opengts.dbtools.DBRecordKey._delete(DBRecordKey.java:565)
+	at org.opengts.dbtools.DBRecordKey._deleteDependencies(DBRecordKey.java:594)
+	... 24 more
+[INFO_|07/30 21:06:17|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[INFO_|07/30 21:06:36|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[ERROR|07/30 21:06:46|ReportDisplay.writePage:531] Device not specified: EventDetail
+[INFO_|07/30 21:06:56|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/30 21:08:53|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/30 21:08:53|Audit.userLoginOK:110] Login: Time=1375198733 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/30 21:08:55|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/30 22:12:26|DBConnection.closeAllConnections:334] Closed all open DBConnections: 5
+[INFO_|07/30 22:12:27|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 22:12:27|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 22:12:27|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/31 18:00:12|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=46592, free=28302, used=18290
+[INFO_|07/31 18:00:13|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/31 18:01:55|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/31 18:01:55|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/31 18:01:55|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/31 18:01:56|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=95488, free=56812, used=38676
+[INFO_|07/31 18:01:57|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/31 18:02:22|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/31 18:02:22|Audit.userLoginOK:110] Login: Time=1375273942 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/31 19:50:27|DBConnection.closeAllConnections:334] Closed all open DBConnections: 2
+[INFO_|07/31 19:50:27|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/31 19:50:27|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/31 19:50:27|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/31 21:12:09|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=17275, used=34501
+[INFO_|07/31 21:12:10|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/31 21:15:51|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|07/31 21:15:51|Audit.userLoginOK:110] Login: Time=1375285551 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|07/31 21:15:56|TrackMap.writeJS_MapUpdate:408] js: SortableLocationDetails = [default:map.device] false
+[INFO_|07/31 21:16:04|SysAdminAccounts$1.countSession:260] Logged-in User: sysadmin,admin
+[INFO_|07/31 22:04:13|DBConnection.closeAllConnections:334] Closed all open DBConnections: 3
+[INFO_|07/31 22:04:14|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/31 22:04:14|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|07/31 22:04:14|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/01 01:26:05|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53952, free=34260, used=19692
+[INFO_|08/01 01:26:06|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/01 01:54:38|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/01 01:54:38|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/01 01:54:38|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/01 01:54:42|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53376, free=21353, used=32023
+[INFO_|08/01 01:54:43|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/01 01:56:03|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/01 01:56:03|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/01 01:56:03|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/01 01:56:05|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=17416, used=34360
+[INFO_|08/01 01:56:06|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/01 02:02:39|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/01 02:02:39|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/01 02:02:39|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/01 02:02:42|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=16686, used=35090
+[INFO_|08/01 02:02:43|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/01 02:06:15|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/01 02:06:15|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/01 02:06:15|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/01 02:07:31|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=16509, used=35267
+[INFO_|08/01 02:07:32|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/01 11:38:18|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/01 11:38:18|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/01 11:38:18|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/04 08:43:34|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=54016, free=33831, used=20185
+[INFO_|08/04 08:43:35|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/04 10:25:39|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/04 10:25:39|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/04 10:25:39|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------

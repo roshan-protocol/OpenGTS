@@ -1,0 +1,17 @@
+[INFO_|06/12 15:58:19|Main.main:193] --------------------------------------------------------------------------
+[INFO_|06/12 15:58:19|Main.main:194] Template Example Server Version 0.2.8
+[INFO_|06/12 15:58:19|Main.main:195] DeviceCode           : template
+[INFO_|06/12 15:58:19|Main.main:196] ParseFormat          : 1
+[INFO_|06/12 15:58:19|Main.main:197] MinimumSpeed         : 0.0
+[INFO_|06/12 15:58:19|Main.main:198] EstimateOdom         : false
+[INFO_|06/12 15:58:19|Main.main:199] TCP Idle Timeout     : 10000 ms
+[INFO_|06/12 15:58:19|Main.main:200] TCP Packet Timeout   : 4000 ms
+[INFO_|06/12 15:58:19|Main.main:201] TCP Session Timeout  : 15000 ms
+[INFO_|06/12 15:58:19|Main.main:202] UDP Idle Timeout     : 5000 ms
+[INFO_|06/12 15:58:19|Main.main:203] UDP Packet Timeout   : 4000 ms
+[INFO_|06/12 15:58:19|Main.main:204] UDP Session Timeout  : 60000 ms
+[INFO_|06/12 15:58:19|Main.main:205] Copyright 2007-2013, GeoTelematic Solutions, Inc.
+[INFO_|06/12 15:58:19|Main.main:206] --------------------------------------------------------------------------
+[INFO_|06/12 15:58:19|DCServerConfig.startServerSocketThread:1560] Starting Event Listener (TCP) - 31200 [(ALL)] timeout=15000ms ...
+[INFO_|06/12 15:58:19|DCServerConfig.startServerSocketThread:1565] Starting Event Listener (UDP) - 31200 [0.0.0.0/0.0.0.0] ...
+[WARN_|06/12 15:58:19|TrackServer.<init>:237] Ignoring CommandPort listener

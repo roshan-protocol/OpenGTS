@@ -1,0 +1,40 @@
+[INFO_|07/25 15:58:46|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=131904, free=27650, used=104254
+[INFO_|07/25 15:58:46|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/25 15:58:46|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gc101.xml
+[INFO_|07/25 15:58:46|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gc101/WEB-INF/dcservers.xml
+[INFO_|07/25 15:58:46|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/25 21:57:55|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/25 21:57:55|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gc101
+[INFO_|07/25 21:57:55|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/28 00:15:59|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=147968, free=25964, used=122004
+[INFO_|07/28 00:15:59|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/28 00:15:59|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gc101.xml
+[INFO_|07/28 00:15:59|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gc101/WEB-INF/dcservers.xml
+[INFO_|07/28 00:16:00|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/28 00:19:15|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/28 00:19:15|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gc101
+[INFO_|07/28 00:19:15|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:36:07|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=124416, free=63061, used=61355
+[INFO_|07/30 16:36:08|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/30 16:36:08|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gc101.xml
+[INFO_|07/30 16:36:08|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gc101/WEB-INF/dcservers.xml
+[INFO_|07/30 16:36:08|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 16:39:20|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 16:39:20|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gc101
+[INFO_|07/30 16:39:20|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:39:32|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=140544, free=88226, used=52318
+[INFO_|07/30 16:39:32|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/30 16:39:32|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gc101.xml
+[INFO_|07/30 16:39:32|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gc101/WEB-INF/dcservers.xml
+[INFO_|07/30 16:39:32|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 16:40:34|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 16:40:34|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gc101
+[INFO_|07/30 16:40:34|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|07/30 16:42:13|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=154112, free=31716, used=122396
+[INFO_|07/30 16:42:14|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[WARN_|07/30 16:42:14|DCServerFactory._loadDCServerXML:607] DCServerConfig XML file not found: dcserver_w-gc101.xml
+[INFO_|07/30 16:42:14|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/gc101/WEB-INF/dcservers.xml
+[INFO_|07/30 16:42:14|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|07/30 17:07:11|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|07/30 17:07:11|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: dcs:w-gc101
+[INFO_|07/30 17:07:11|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
