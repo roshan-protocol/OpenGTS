@@ -103,7 +103,7 @@ response.setDateHeader("EXPIRES"  , 0         );
       <gts:var>
       <td width="860" height="120" class="titleText" halign="center">
         ${pageTitle}<br>
-        <font style="font-size: 9pt;"><i>(Powered by <a href="http://www.opengts.org" target="_blank" style="color:#444444;">OpenGTS</a>)</i></font>
+        <font style="font-size: 9pt;"><i>(Powered by <a href="http://www.protocoltechuk.com" target="_blank" style="color:#444444;">Protocol Technologies</a>)</i></font>
       </td>
       </gts:var>
 

@@ -7,8 +7,9 @@
 <booleanAttribute key="org.eclipse.ant.ui.ATTR_TARGETS_UPDATED" value="true"/>
 <booleanAttribute key="org.eclipse.ant.ui.DEFAULT_VM_INSTALL" value="false"/>
 <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="ANT_HOME" value="/opt/eclipse/plugins/org.apache.ant_1.8.3.v20120321-1730"/>
 <mapEntry key="CATALINA_HOME" value="/home/protocol/tomcat"/>
-<mapEntry key="GTS_HOME" value="/home/protocol/j2ee_workspace/OpenGTS"/>
+<mapEntry key="GTS_HOME" value="/home/protocol/git/OpenGTS/OpenGTS"/>
 <mapEntry key="JAVA_HOME" value="/usr/lib/jvm/java-7-oracle"/>
 </mapAttribute>
 <booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="false"/>
@@ -17,9 +18,9 @@
 <stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="OpenGTS"/>
-<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="/home/protocol/j2ee_workspace/OpenGTS/build.xml"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="/home/protocol/git/OpenGTS/OpenGTS/build.xml"/>
 <stringAttribute key="org.eclipse.ui.externaltools.ATTR_RUN_BUILD_KINDS" value="full,incremental,auto,clean"/>
 <booleanAttribute key="org.eclipse.ui.externaltools.ATTR_TRIGGERS_CONFIGURED" value="true"/>
-<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="/home/protocol/j2ee_workspace/OpenGTS"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="/home/protocol/git/OpenGTS/OpenGTS"/>
 <stringAttribute key="process_factory_id" value="org.eclipse.ant.ui.remoteAntProcessFactory"/>
 </launchConfiguration>

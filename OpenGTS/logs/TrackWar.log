@@ -1,0 +1,38 @@
+[INFO_|08/10 18:00:31|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53568, free=22020, used=31548
+[INFO_|08/10 18:00:32|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/10 18:01:40|Track._doWork:1207] Login SysAdmin: sysadmin/admin [From 127.0.0.1]
+[INFO_|08/10 18:01:40|Audit.userLoginOK:110] Login: Time=1376137900 Domain=default Account=sysadmin User=admin IP=127.0.0.1
+[INFO_|08/10 21:50:39|DBConnection.closeAllConnections:334] Closed all open DBConnections: 2
+[INFO_|08/10 21:50:39|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/10 21:50:39|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/10 21:50:39|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/13 10:24:56|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=53952, free=33949, used=20003
+[INFO_|08/13 10:24:57|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/13 10:25:49|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/13 10:25:49|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/13 10:25:49|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/13 10:25:50|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=134080, free=72093, used=61987
+[INFO_|08/13 10:25:51|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/13 16:37:04|DBConnection.closeAllConnections:334] Closed all open DBConnections: 1
+[INFO_|08/13 16:37:05|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/13 16:37:05|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/13 16:37:05|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/13 18:18:29|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=51776, free=17296, used=34480
+[INFO_|08/13 18:18:31|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/13 18:19:23|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/13 18:19:23|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/13 18:19:23|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/13 18:19:24|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=131136, free=46774, used=84362
+[INFO_|08/13 18:19:24|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/13 18:23:51|Track._doWork:705] Dispatching to /jsp/loginFrame.jsp
+[INFO_|08/13 18:24:05|Track._doWork:705] Dispatching to /jsp/loginFrame.jsp
+[INFO_|08/13 18:24:18|Track._doWork:705] Dispatching to /jsp/loginFrame.jsp
+[INFO_|08/13 18:45:07|Track._doWork:705] Dispatching to /jsp/loginFrame.jsp
+[INFO_|08/13 19:07:05|Track._doWork:1008] Account does not exist: roshanqjf
+[INFO_|08/13 19:07:05|Track._doWork:1018] Login[Failed]: Domain=default Account=roshanqjf User= Time=1376401025 IPAddr=127.0.0.1
+[INFO_|08/13 19:29:06|DBConnection.closeAllConnections:334] Closed all open DBConnections: 8
+[INFO_|08/13 19:29:06|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/13 19:29:06|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: TrackWar
+[INFO_|08/13 19:29:06|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/13 19:29:07|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=167872, free=94849, used=73023
+[INFO_|08/13 19:29:08|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
