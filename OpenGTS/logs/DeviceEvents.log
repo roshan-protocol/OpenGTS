@@ -16,3 +16,14 @@
 [INFO_|08/13 18:18:32|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
 [INFO_|08/13 18:18:32|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/events/WEB-INF/dcservers.xml
 [INFO_|08/13 18:18:32|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/13 21:07:06|RTConfigContextListener.contextDestroyed:243] Remaining pool threads [0]: 0
+[INFO_|08/13 21:07:06|RTConfigContextListener.contextDestroyed:246] ... Servlet Context destroyed: DeviceEvents
+[INFO_|08/13 21:07:06|RTConfigContextListener.contextDestroyed:247] -----------------------------------------------
+[INFO_|08/13 21:07:58|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=71872, free=16410, used=55462
+[INFO_|08/13 21:07:58|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[INFO_|08/13 21:07:58|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/events/WEB-INF/dcservers.xml
+[INFO_|08/13 21:07:58|RTConfigContextListener.contextInitialized:211] java.awt.headless=false
+[INFO_|08/13 21:33:18|OSTools.printMemoryUsage:448] Memory-K: max=429632, total=83840, free=12598, used=71242
+[INFO_|08/13 21:33:18|BasicPrivateLabelLoader.printInfo:380] Not a 'Track/Service' servlet
+[INFO_|08/13 21:33:18|DCServerFactory._loadDCServerXML:614] DCServerConfig XML file not loaded: /home/protocol/tomcat/webapps/events/WEB-INF/dcservers.xml
+[INFO_|08/13 21:33:18|RTConfigContextListener.contextInitialized:211] java.awt.headless=false

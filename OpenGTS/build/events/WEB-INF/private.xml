@@ -266,7 +266,7 @@ Notes:
     <!-- ========================================================================================== -->
 
     <!-- Copyright used in html head 'meta' tag -->
-    <Copyright>${Domain.Copyright=Copyright(C) 2013 Protocol Techonologies}</Copyright>
+    <Copyright>${Domain.Copyright=Copyright(C) GeoTelematic Solutions, Inc.}</Copyright>
 
     <!-- Title used in html head 'title' tag -->
     <PageTitle i18n="PrivateXML.pageTitle">${Domain.PageTitle=${ServiceAccount.Name=OpenGTS} GPS Tracking}</PageTitle>
