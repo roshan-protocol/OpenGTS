@@ -57,6 +57,8 @@ public class RTConfigContextListener
     implements ServletContextListener, HttpSessionListener
 {
 
+	
+	
     // ------------------------------------------------------------------------
 
     /* must patch "org.opengts.war.track.Constants.*" */
